@@ -10,8 +10,6 @@ __Michael Marcucci__ Zomato API and relevane Javascript/Jquery code.
 __Michael Olshewski__ HTML and Halfmoon(CSS framework) code, and implementation of Javascript.  
 
 
-# Dinner-and-a-Show
-
 ## __Details About This Assignment__
 The application requirements for this project were as follows:
 
@@ -37,4 +35,4 @@ We chose to create a site that takes user search inputs to search for a concert 
 https://jdouglasr.github.io/Dinner-and-a-show/
 
 ### __Image of 'index.html'__
-![index.html](/site-img/.png)
+![index.html](/site-img/dinner-and-a-show.png)
