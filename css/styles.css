@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+
+body {
+    background: url(../images/bg3.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    backdrop-filter: blur(8px);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.has-fancy-text {
+    font-family: 'Oleo Script', cursive;
+}
+
+.searchGroup {
+    width: 60%;
+    padding-top: 30px;
+    margin-bottom:30px;
+}
+
+.searchCardTitle {
+    padding-top: 15px;
+}
+
+.hide {
+    display: none;
+}
+
+#songkickIcon {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w-800 {
+    width: 80rem;
+}
+
+.w-80-percent {
+    width: 80%;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
