@@ -9,9 +9,6 @@ __Jasmine Bailey__ Google Api/Presentation/Connecting Across Silos.
 __Michael Marcucci__ Zomato API and relevane Javascript/Jquery code.  
 __Michael Olshewski__ HTML and Halfmoon(CSS framework) code, and implementation of Javascript.  
 
-
-# Dinner-and-a-Show
-
 ## __Details About This Assignment__
 The application requirements for this project were as follows:
 
