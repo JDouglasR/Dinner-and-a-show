@@ -1,5 +1,5 @@
 # __*Dinner and a show*__
-
+![GitHub](https://img.shields.io/github/license/jdouglasr/dinner-and-a-show)
 
 #### __*Collaborators*__
 
